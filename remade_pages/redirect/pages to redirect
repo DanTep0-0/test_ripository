@@ -1,0 +1,76 @@
+crypton                       new
+
+1)  dig_equip_cod_982.html        dig_equip_cod_982
+2)  analog.html                   analog
+3)  dig_equip_cod_881_ms.html     dig_equip_cod_881_ms
+4) dig_equip_cod_912.html         dig_equip_cod_912
+5)  dig_equip_cod_910_asi.html    dig_equip_cod_910_asi
+6)  index_history.html            index_history
+7)  dig_equip_cod_980_rms.html    dig_equip_cod_980_rms
+8)  dig_equip_rmd_940.html        dig_equip_rmd_940
+9)  dig_equip_enc_810_asi.html    dig_equip_enc_810_asi
+10) dig_equip_enc_810_asi.html    dig_equip_enc_810_asi
+11) news_cstb-2006.html           news_cstb-2006
+12) news_2006_new_equipment.html  news_2006_new_equipment
+13) news_eebc-2006.html           news_eebc-2006
+14) crypton_biz_ua.html           crypton_biz_ua
+15) news_dig_remult.html          news_dig_remult
+16) dealers.html                  dealers
+17) news_eebc-2008.html           news_eebc-2008
+18) node/47, node/47/             node/47
+19) dig_equip_cod_980_asi.html, dig_equip_cod_980_asi, dig_equip_cod_980_asi/ => dig_equip_cod_980_asi
+20) set-top_box_dvb-c.html        set-top_box_dvb-c
+21) node/57, node/57/             node/57
+22) an_soft.html                  an_soft
+23) ru/partners.html              ru/partners
+24) dig_equip_cod_881_asi.html    dig_equip_cod_881_asi
+25) dig_solut_lviv_region.html    dig_solut_lviv_region
+26) dig_solut_maximum_tv.html     dig_solut_maximum_tv
+27) dvb_solution_cellular.html    dvb_solution_cellular
+28) dig_solut_crypton_roks.html   dig_solut_crypton_roks
+29) news_cstb-2007.html           news_cstb-2007
+30) news_test_drive.html          news_test_drive
+31) news_eebc-2007.html           news_eebc-2007.html
+32) raiting.html                  raiting
+33) ukrainian_encoding.html       ukrainian_encoding
+34) new_phones.html               new_phones
+35) crypton-software-suite.html   crypton-software-suite
+36) en/news_eebc-2008.html        en/news_eebc-2008
+37) company_management.html       company_management
+38) oem_asi_transmitter.html      oem_asi_transmitter
+39) dig_equip_dsng.html           dig_equip_dsng
+40) soft.html                     soft
+41) dig_soft.html                 dig_soft
+42) oem_encoder.html              oem_encoder.html
+43) umc1100.html                  umc1100
+44) oem_qpsk_modulator.html       oem_qpsk_modulator
+45) en/oem_qpsk_modulator.html    en/oem_qpsk_modulator
+46) en/dig_equip_cod_881_ms.html  en/dig_equip_cod_881_ms
+47) en/news_eebc-2006.html        news_eebc-2006
+48) en/news_cstb-2006.html        en/news_cstb-2006
+49) en/news_cstb-2007.html        en/news_cstb-2007
+50) en/news_eebc-2007.html        en/news_eebc-2007
+51) news_cstb-2008.html           news_cstb-2008
+52) an_solut_01.html              an_solut_01
+53) articles.html                 articles
+54) dig_equip_cod_802_ms.html     dig_equip_cod_802_ms
+55) dig_equip_mux_841.html        dig_equip_mux_841
+56) dig_solut_ukraine.html        dig_solut_ukraine
+57) en/index_history.html         en/index_history
+58) en/dig_equip_enc_810_asi.html en/dig_equip_enc_810_asi
+59) dig_equip_crt_1001_enc.html   dig_equip_crt_1001_enc
+60) en/dig_equip_crt_1001_enc.html en/dig_equip_crt_1001_enc
+61) dig_equip_dvbs_dit_crypton.html dig_equip_dvbs_dit_crypton
+62) dig_equip_dvbc_dit_crypton.html dig_equip_dvbc_dit_crypton
+63) news_cstb-2009.html             news_cstb-2009
+64) cod982msle.html                 cod982msle
+65) crt1081ird.html                 crt1081ird
+66) dig_equip_receiver/sgs.html     dig_equip_receiver/sgs
+67) update.html                     update
+
+Разобратся со страницами /access-protection, /iptv-catch-up%20server - переадресация iptv_exx
+
+На криптоне есть клоны biss и biss/, а у нал это одна и та же страница.
+
+
+68) cam.html                        cam
