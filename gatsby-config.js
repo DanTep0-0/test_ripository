@@ -102,7 +102,7 @@ module.exports = {
       options: {
         host: 'https://crypton.com.ua',
         policy: [
-          { userAgent: '*', allow: ['/'] }
+          { userAgent: '*', disallow: ['/'] }
         ]
       },
         sitemap: 'https://crypton.com.ua/sitemap.xml',
