@@ -372,9 +372,7 @@ export default class Header extends React.Component {
                 </div>
               </li>
               <li>
-                <Link to="/contact" className="menu_link" onClick={closeMenu} >
-                  Контакты
-                </Link>
+                
               </li>
               <li className="dropdown switch_lang">
                 <span>RU
